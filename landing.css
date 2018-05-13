@@ -19,6 +19,7 @@ nav {
 
 .hero__title {
   font-weight: 900;
+  font-size: x-large
   color: var(--primary-color);
 }
 
@@ -27,7 +28,7 @@ nav {
 }
 
 .hero__terminal {
-  width: 80%;
+  width: 60%;
   margin: -11rem auto 3rem auto;
   text-align: left;
   color: white;
