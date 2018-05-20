@@ -16,7 +16,7 @@ if (document.getElementsByClassName('demo').length > 0) {
 
 
              ###This musical project is based on a boom bap vibe through styles such as Jazz, Soul, Funk###
-             {Hacking MIDI controllers and recordings by means of composition and ad-lib sounds with TidalCycles - SuperCollider}
+             {Hacking MIDI controllers and recordings by means of composition and ad-lib sounds with programming languages}
              {Thereby creating a performance full of rhythmic patterns and RAPS with Live Coding}
              \n «Eso somos nosotros, lo diferente. Ratas de la tecnología nadando en el océano de la información.
              Lo nuestro está en el garage, apilado con la porquería electrónica. El hierro soldado en la esquina de la mesa y cercana a la radio desmontada, eso es lo nuestro. Lo nuestro es una habitación con ordenadores, impresoras zumbeantes y modems pitando.
