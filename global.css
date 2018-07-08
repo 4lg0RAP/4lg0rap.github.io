@@ -24,6 +24,7 @@ html, body {
 p {
   font-weight: 300;
   color: #4A4A4A;
+  font-size: 12px;
 }
 
 a, a:hover {
